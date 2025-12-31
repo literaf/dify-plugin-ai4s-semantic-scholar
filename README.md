@@ -2,23 +2,24 @@
 
 Academic paper search plugin powered by [ai4scholar.net](https://ai4scholar.net) API for Dify platform.
 
-**Author**: ai4scholar  
-**Repository**: [GitHub](https://github.com/literaf/dify-plugin-ai4s-semantic-scholar)  
-**Support**: [GitHub Issues](https://github.com/literaf/dify-plugin-ai4s-semantic-scholar/issues) | WeChat: literaf
+**Author**: [ai4scholar](https://ai4scholar.net)  
+**Repository**: [dify-plugin-ai4s-semantic-scholar](https://github.com/literaf/dify-plugin-ai4s-semantic-scholar)
+
+[English Documentation](./README.md) | [中文文档](./README_ZH.md)
 
 ---
 
 ## Overview
 
 - **Plugin Type**: Tool Plugin (Python)
-- **Tools**: 11 tools for paper search, paper details, paper analysis, and author search
-- **Output**: Text (Markdown format)
+- **Tools**: 11 tools (Paper Search / Paper Details / Paper Analysis / Author Search)
+- **Output**: text (Markdown format)
 
 This plugin wraps the Semantic Scholar API via ai4scholar.net proxy, providing stable service with unified credit billing.
 
 ---
 
-## Configuration
+## Configuration (Provider Credentials)
 
 After installing the plugin in Dify, configure the following credentials:
 
@@ -124,28 +125,14 @@ To get more credits, visit [ai4scholar.net](https://ai4scholar.net).
 
 ---
 
-## License
+## Support
 
-MIT License
+- **GitHub Issues**: [Report a bug or request a feature](https://github.com/literaf/dify-plugin-ai4s-semantic-scholar/issues)
+- **WeChat**: literaf
+- **Website**: [ai4scholar.net](https://ai4scholar.net)
 
 ---
 
-# 中文说明
+## License
 
-基于 [ai4scholar.net](https://ai4scholar.net) API 的学术论文搜索插件。
-
-## 功能
-
-- **论文搜索**: 语义搜索、标题搜索、批量搜索
-- **论文详情**: 单篇详情、批量详情
-- **论文分析**: 推荐论文、引用分析、参考文献
-- **作者搜索**: 作者查询、作者详情、作者论文
-
-## 获取 API Key
-
-访问 [ai4scholar.net](https://ai4scholar.net) 注册并获取 API Key。
-
-## 联系支持
-
-- 微信: literaf
-- GitHub Issues: [提交问题](https://github.com/literaf/dify-plugin-ai4s-semantic-scholar/issues)
+MIT License
