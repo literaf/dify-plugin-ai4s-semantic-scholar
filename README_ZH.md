@@ -120,7 +120,7 @@
 ## 相关链接
 
 - [ai4scholar.net](https://ai4scholar.net) - API 服务
-- [Semantic Scholar API 文档](https://api.semanticscholar.org/api-docs/)
+- [Semantic Scholar API 文档](https://ai4scholar.net/docs/api-docs/)
 - [Dify 插件开发文档](https://docs.dify.ai/zh/use-dify/workspace/plugins)
 
 ---
