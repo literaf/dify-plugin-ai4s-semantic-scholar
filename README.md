@@ -120,7 +120,7 @@ To get more credits, visit [ai4scholar.net](https://ai4scholar.net).
 ## Links
 
 - [ai4scholar.net](https://ai4scholar.net) - API Service
-- [Semantic Scholar API Docs](https://api.semanticscholar.org/api-docs/)
+- [Semantic Scholar API Docs](https://ai4scholar.net/docs/api-docs/)
 - [Dify Plugin Documentation](https://docs.dify.ai/)
 
 ---
